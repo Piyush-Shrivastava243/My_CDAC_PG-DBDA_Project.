@@ -11,7 +11,7 @@ Here I've uploaded my final project for PG DBDA Course from CDAC Mumbai (Khargha
 
 # 3. Technologies : Machine Learning, Deep Learning, Python, Cloud Pipeline, Big Data, PowerBI, StreamLit, AWS,EC2, EMR, S3.
 
-# 4. Your Contribution : You guys can tell about you contribution and the work you did.
+# 4. Your Contribution : What work is done by whom.
 - Aditi : Streamlit and front end part
 - Piyush, Ankith, Gaurav : EDA
 - Bharat, Kiran, Gaurav : Big Data and AWS.
