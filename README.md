@@ -1,7 +1,7 @@
-# Real_Time_IPL_Team_Win_Probability_and_Ball_by_Ball-Forecasting.
+# Real_Time_IPL_Team_Win_Probability.
 Here I've uploaded my final project for PG DBDA Course from CDAC Mumbai (Kharghar).
 
-# 1. Title : Real-Time IPL Team Win Probability and Ball-by-Ball Forecasting.
+# 1. Title : Real-Time IPL Team Win Probability.
 
 # 2. Overview Brief with objective and Problem Statement : 
 - The project focuses on utilizing historical Indian Premier League data to predict the win probability of teams and forecast outcomes on a ball by ball basis. 
